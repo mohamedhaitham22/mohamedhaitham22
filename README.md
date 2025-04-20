@@ -60,12 +60,6 @@ Built a modern SQL data warehouse using Medallion Architecture and SSMS.
 - 📍 Location: Damietta, Egypt
 
 ---
-
-## 🌐 Website Screenshot
-
-![Website Screenshot](https://raw.githubusercontent.com/mohamedhaitham22/portfolio/main/images/profile.png)
-
----
 ### Thank you for visiting my portfolio!  
 Feel free to explore my work, reach out for collaborations, or just say hi 😊
 
