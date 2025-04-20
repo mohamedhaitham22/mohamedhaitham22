@@ -1,65 +1,66 @@
-# 👋 Mohamed Haitham - Data Scientist & AI Student
+<h2 align="center">Hi 👋! I am Mohamed Haitham - Data Scientist & AI Student.</h2>
 
-Welcome to my personal portfolio website! I'm **Mohamed Haitham**, a student of Bioinformatics at the Faculty of Artificial Intelligence, Delta University. I'm passionate about **Data Science, Machine Learning**, and solving real-world problems using **AI technologies**.
+###
 
-## 🧑‍💻 About Me
+<p align="left">🧑‍💻 About Me<br>Dedicated and passionate Data Scientist and Bioinformatics student at the Faculty of Artificial Intelligence at Delta University, with a strong foundation in Python, SQL, and cloud technologies. Experienced in applying data science techniques to extract insights from large datasets, building scalable data pipelines, and developing predictive models. Skilled in using libraries such as Pandas, NumPy, TensorFlow, and Keras, with additional expertise in Power BI for data visualization. Committed to leveraging AI and machine learning techniques to solve real-world challenges, with a strong drive to continuously learn and apply emerging technologies.</p>
 
-I'm currently studying Bioinformatics (2022 - 2026) and focusing on building AI and data-driven solutions. I love transforming data into actionable insights. I have strong experience with Python, SQL, machine learning, and data visualization tools.
+###
 
-## 🎓 Education
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
+</div>
 
-- **Bachelor's in Bioinformatics**  
-  Faculty of Artificial Intelligence, Delta University for Science and Technology  
-  📍 New Mansoura, Egypt  
-  🗓️ 2022 - 2026
+###
 
-## 💼 Experience
+<p align="left">🎓 Education<br>Bachelor's in Bioinformatics<br>Faculty of Artificial Intelligence, Delta University for Science and Technology<br>📍 New Mansoura, Egypt<br>🗓️ 2022 - 2026</p>
 
-### Microsoft Data Engineering - DEPI
-- Completed training in SQL, data warehousing, Azure Data Fundamentals, Python, MLOps, MLflow, and Hugging Face.
-- Gained hands-on experience in building data pipelines and deploying models.
-- 🗓️ April to October 2024
+###
 
-## 🛠️ Technical Skills
+<p align="left">🛠️ Technical Skills<br>Machine Learning: Deep Learning, Neural Networks<br>Data Engineering: SQL, ETL, Data Warehousing<br>Data Visualization: Power BI, Matplotlib<br>Programming: Python, SQL<br>Cloud: Microsoft Azure<br>Libraries: Pandas, NumPy, scikit-learn, TensorFlow, Keras</p>
 
-- **Machine Learning**: Deep Learning, Neural Networks  
-- **Data Engineering**: SQL, ETL, Data Warehousing  
-- **Data Visualization**: Power BI, Matplotlib  
-- **Programming**: Python, SQL  
-- **Cloud**: Microsoft Azure  
-- **Libraries**: Pandas, NumPy, scikit-learn, TensorFlow, Keras
+###
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
-### 🌿 [Plant Diseases Detection and Classification](https://github.com/mohamedhaitham22/Plant-Diseases-Detection-using-CNN)
-A deep learning model built using CNN to detect and classify plant diseases from leaf images. Helps farmers take quick action to protect their crops.
+###
 
-**Tech used**: Python, Deep Learning, CNN
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhaitham22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhaitham22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 🚦 [Traffic Monitoring and Analysis](https://github.com/ahmedmohamedabdelsalam/Real-Time-Traffic-Monitoring-and-Analysis)
-Designed data pipelines and created a scalable data warehouse for analyzing high-volume traffic data in real-time.
+<div align="center">
+  <a href="mo7amed_yamani" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mo7amed.yamani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-yamani-48353a255" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-**Tech used**: Data Engineering, ETL, Data Warehousing
+###
 
----
+<img src="https://raw.githubusercontent.com/mohamedhaitham22/mohamedhaitham22/output/snake.svg" alt="Snake animation" />
 
-### 🗄️ [SQL Data Warehouse Project](https://github.com/mohamedhaitham22/SQL-Data-Warehouse-Project)
-Built a modern SQL data warehouse using Medallion Architecture and SSMS.
-
-**Tech used**: SQL, ETL, Data Warehouse
-
-## 📫 Contact Me
-
-- 📧 Email: [mo7amed.yamani@gmail.com](mailto:mo7amed.yamani@gmail.com)  
-- 📞 Phone: [+201018828607](tel:+201018828607)  
-- 💼 LinkedIn: [Mohamed Haitham](https://www.linkedin.com/in/mohamed-yamani-48353a255)  
-- 🐙 GitHub: [@mohamedhaitham22](https://github.com/mohamedhaitham22)  
-- 📊 Kaggle: [@mohamedhaithamyamani](https://www.kaggle.com/mohamedhaithamyamani)  
-- 📍 Location: Damietta, Egypt
-
----
-### Thank you for visiting my portfolio!  
-Feel free to explore my work, reach out for collaborations, or just say hi 😊
-
+###
