@@ -5,9 +5,7 @@
 <p align="left">
 🧑‍💻 <strong>About Me</strong><br>
 I'm a passionate Data Scientist and Bioinformatics student at the Faculty of Artificial Intelligence, Delta University. I have a strong background in Python, SQL, and cloud computing. I enjoy solving real-world problems using machine learning and data analysis.<br><br>
-
 I love working with data — from cleaning and organizing it to building powerful models using libraries like Pandas, NumPy, TensorFlow, and Keras. I also use Power BI to create dashboards that make complex data easier to understand.<br><br>
-
 I'm always excited to learn new technologies, improve my skills, and work on meaningful projects that have a positive impact.
 </p>
 
