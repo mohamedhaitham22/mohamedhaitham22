@@ -2,7 +2,9 @@
 
 ###
 
-<p align="center">🧑‍💻 About Me<br>Dedicated and passionate Data Scientist and Bioinformatics student at the Faculty of Artificial Intelligence at Delta University, with a strong foundation in Python, SQL, and cloud technologies. Experienced in applying data science techniques to extract insights from large datasets, building scalable data pipelines, and developing predictive models. Skilled in using libraries such as Pandas, NumPy, TensorFlow, and Keras, with additional expertise in Power BI for data visualization. Committed to leveraging AI and machine learning techniques to solve real-world challenges, with a strong drive to continuously learn and apply emerging technologies.</p>
+<br clear="both">
+
+<p align="left">🧑‍💻 About Me<br>Dedicated and passionate Data Scientist and Bioinformatics student at the Faculty of Artificial Intelligence at Delta University, with a strong foundation in Python, SQL, and cloud technologies. Experienced in applying data science techniques to extract insights from large datasets, building scalable data pipelines, and developing predictive models. Skilled in using libraries such as Pandas, NumPy, TensorFlow, and Keras, with additional expertise in Power BI for data visualization. Committed to leveraging AI and machine learning techniques to solve real-world challenges, with a strong drive to continuously learn and apply emerging technologies.</p>
 
 ###
 
@@ -12,11 +14,18 @@
 
 ###
 
-<p align="center">🎓 Education<br>Bachelor's in Bioinformatics<br>Faculty of Artificial Intelligence, Delta University for Science and Technology<br>📍 New Mansoura, Egypt<br>🗓️ 2022 - 2026</p>
+<p align="left">🎓 Education<br>Bachelor's in Bioinformatics<br>Faculty of Artificial Intelligence, Delta University for Science and Technology<br>📍 New Mansoura, Egypt<br>🗓️ 2022 - 2026</p>
 
 ###
 
-<p align="center">🛠️ Technical Skills<br>Machine Learning: Deep Learning, Neural Networks<br>Data Engineering: SQL, ETL, Data Warehousing<br>Data Visualization: Power BI, Matplotlib<br>Programming: Python, SQL<br>Cloud: Microsoft Azure<br>Libraries: Pandas, NumPy, scikit-learn, TensorFlow, Keras</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhaitham22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhaitham22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left">🛠️ Technical Skills<br>Machine Learning: Deep Learning, Neural Networks<br>Data Engineering: SQL, ETL, Data Warehousing<br>Data Visualization: Power BI, Matplotlib<br>Programming: Python, SQL<br>Cloud: Microsoft Azure<br>Libraries: Pandas, NumPy, scikit-learn, TensorFlow, Keras</p>
 
 ###
 
@@ -41,13 +50,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhaitham22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhaitham22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="mo7amed_yamani" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -60,6 +62,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedhaitham22/mohamedhaitham22/output/pacman-contribution-graph-dark.svg">
