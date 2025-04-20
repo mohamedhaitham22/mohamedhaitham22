@@ -1,8 +1,15 @@
-<h2 align="center">Hi 👋! I am Mohamed Haitham - Data Scientist & AI Student.</h2>
+<h2 align="center">Hi 👋! I'm Mohamed Haitham - Data Scientist & AI Student</h2>
 
 ###
 
-<p align="left">🧑‍💻 About Me<br>Dedicated and passionate Data Scientist and Bioinformatics student at the Faculty of Artificial Intelligence at Delta University, with a strong foundation in Python, SQL, and cloud technologies. Experienced in applying data science techniques to extract insights from large datasets, building scalable data pipelines, and developing predictive models. Skilled in using libraries such as Pandas, NumPy, TensorFlow, and Keras, with additional expertise in Power BI for data visualization. Committed to leveraging AI and machine learning techniques to solve real-world challenges, with a strong drive to continuously learn and apply emerging technologies.</p>
+<p align="left">
+🧑‍💻 <strong>About Me</strong><br>
+I'm a passionate Data Scientist and Bioinformatics student at the Faculty of Artificial Intelligence, Delta University. I have a strong background in Python, SQL, and cloud computing. I enjoy solving real-world problems using machine learning and data analysis.<br><br>
+
+I love working with data — from cleaning and organizing it to building powerful models using libraries like Pandas, NumPy, TensorFlow, and Keras. I also use Power BI to create dashboards that make complex data easier to understand.<br><br>
+
+I'm always excited to learn new technologies, improve my skills, and work on meaningful projects that have a positive impact.
+</p>
 
 ###
 
@@ -12,11 +19,25 @@
 
 ###
 
-<p align="left">🎓 Education<br>Bachelor's in Bioinformatics<br>Faculty of Artificial Intelligence, Delta University for Science and Technology<br>📍 New Mansoura, Egypt<br>🗓️ 2022 - 2026</p>
+<p align="left">
+🎓 <strong>Education</strong><br>
+Bachelor's Degree in Bioinformatics<br>
+Faculty of Artificial Intelligence, Delta University for Science and Technology<br>
+📍 New Mansoura, Egypt<br>
+🗓️ 2022 - 2026
+</p>
 
 ###
 
-<p align="left">🛠️ Technical Skills<br>Machine Learning: Deep Learning, Neural Networks<br>Data Engineering: SQL, ETL, Data Warehousing<br>Data Visualization: Power BI, Matplotlib<br>Programming: Python, SQL<br>Cloud: Microsoft Azure<br>Libraries: Pandas, NumPy, scikit-learn, TensorFlow, Keras</p>
+<p align="left">
+🛠️ <strong>Technical Skills</strong><br>
+<b>Machine Learning:</b> Deep Learning, Neural Networks<br>
+<b>Data Engineering:</b> SQL, ETL, Data Warehousing<br>
+<b>Data Visualization:</b> Power BI, Matplotlib<br>
+<b>Programming:</b> Python, SQL<br>
+<b>Cloud Tools:</b> Microsoft Azure<br>
+<b>Libraries & Frameworks:</b> Pandas, NumPy, scikit-learn, TensorFlow, Keras, FastAPI
+</p>
 
 ###
 
@@ -48,10 +69,10 @@
 ###
 
 <div align="center">
-  <a href="mo7amed_yamani" target="_blank">
+  <a href="https://instagram.com/mo7amed_yamani" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mo7amed.yamani@gmail.com" target="_blank">
+  <a href="mailto:mo7amed.yamani@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-yamani-48353a255" target="_blank">
@@ -62,5 +83,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mohamedhaitham22/mohamedhaitham22/output/snake.svg" alt="Snake animation" />
-
-###
