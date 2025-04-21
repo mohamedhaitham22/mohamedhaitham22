@@ -80,7 +80,7 @@ Faculty of Artificial Intelligence, Delta University for Science and Technology<
 
 ###
 <div align="center">
-  <img height="400" width="400" src="https://i.pinimg.com/originals/3f/2b/a9/3f2ba950c45b19a282532ea88b3816ae.gif" />
+  <img height="400" width="200" src="https://i.pinimg.com/originals/3f/2b/a9/3f2ba950c45b19a282532ea88b3816ae.gif" />
 </div>
 
 ###
